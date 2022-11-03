@@ -1,0 +1,10 @@
+include ':lastfmdata'
+project(':lastfmdata').projectDir = new File('libs/lastfm')
+include ':nytimes'
+project(':nytimes').projectDir = new File('libs/newyorktimes')
+include ':wikipedia'
+project(':wikipedia').projectDir = new File('libs/wikipedia')
+include ':app'
+include 'observer'
+rootProject.name = "AK Lisboa"
+

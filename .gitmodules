@@ -1,0 +1,9 @@
+[submodule "libs/lastfm"]
+	path = libs/lastfm
+	url = https://github.com/yaninaerivera/Lisboa1-LastFM-Data.git
+[submodule "libs/newyorktimes"]
+	path = libs/newyorktimes
+	url = https://github.com/FacundoAlvarado9/AyDS-NewYork2-Submodule
+[submodule "libs/wikipedia"]
+	path = libs/wikipedia
+	url = https://github.com/TomasFelp/wikipedia-module
