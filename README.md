@@ -1,5 +1,5 @@
 # AyDS-AK-Lisboa1
-Proyecto de la materia Arquitectura y Diseño de Sistemas 
+Proyecto de la materia Arquitectura y Diseño de la carrera Ingeniería de Sistemas de Información de la Universidad Nacional del Sur
 
 ## Integrantes del proyecto
 * Loustaunau Florencia 
