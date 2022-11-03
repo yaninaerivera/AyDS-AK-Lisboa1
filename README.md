@@ -1,5 +1,5 @@
 # AyDS-AK-Lisboa1
-Proyecto de la materia AyDS 
+Proyecto de la materia Arquitectura y Diseño de Sistemas 
 
 ## Integrantes del proyecto
 * Loustaunau Florencia 
